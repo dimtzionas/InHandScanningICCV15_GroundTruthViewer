@@ -63,7 +63,7 @@
      <rect>
       <x>20</x>
       <y>570</y>
-      <width>640</width>
+      <width>941</width>
       <height>16</height>
      </rect>
     </property>
@@ -101,6 +101,11 @@
          <width>16777215</width>
          <height>30</height>
         </size>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>9</pointsize>
+        </font>
        </property>
        <property name="readOnly">
         <bool>true</bool>
