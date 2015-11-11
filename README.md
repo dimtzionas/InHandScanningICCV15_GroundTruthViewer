@@ -1,7 +1,8 @@
 Hand 2D Ground Truth viewer
 =================
 
-A tool to view the data set and the ground truth created for the project **"Capturing Hands in Action using Discriminative Salient Points and Physics Simulation"**. The datasets can be obtained freely in the project page http://files.is.tue.mpg.de/dtzionas/Hand-Object-Capture/ 
+A tool to view the data set and the ground truth created for the project **"3D Object Reconstruction from
+Hand-Object Interactions"**. The datasets can be obtained freely in the project page http://files.is.tue.mpg.de/dtzionas/In-Hand-Scanning/ 
 
 
 Dependencies
